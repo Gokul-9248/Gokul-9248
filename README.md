@@ -14,6 +14,7 @@
 
 <img align="right" alt="coding" width="350" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gokul-9248&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 ---
 
 ### 🚀 About Me
