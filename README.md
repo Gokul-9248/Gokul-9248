@@ -169,5 +169,5 @@
 
 ### 🐍 Contribution Snake
 <p align="center">
-<img src="https://raw.githubusercontent.com/Gokul-9248/Gokul-9248/output/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Gokul-9248/Gokul-9248/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
